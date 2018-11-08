@@ -1,0 +1,6 @@
+Nombre: 		Luis Castro
+Edad: 			19
+Nacionalidad: 		mexicano
+Originario de: 		Los Mochis
+Estudios:		Ing. Informatica   
+Profesión:		Web developer
